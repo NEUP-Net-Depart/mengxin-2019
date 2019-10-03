@@ -24,3 +24,4 @@
 - [Neboer](https://github.com/Neboer)
 - [DuckSoft](https://www.ducksoft.site/)
 - [SingHeart](https://github.com/xinjiempolde)
+- [Waitti](https://github.com/Waitti-long)
