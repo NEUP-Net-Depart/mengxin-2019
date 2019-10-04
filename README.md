@@ -25,4 +25,4 @@
 - [DuckSoft](https://www.ducksoft.site/)
 - [SingHeart](https://github.com/xinjiempolde)
 - [Waitti](https://github.com/Waitti-long)
-- [halozhy](https:github.com/halozhy)
+- [halozhy](https://github.com/halozhy)
