@@ -38,6 +38,7 @@
 - [wsyadc](https://github.com/wsyadc)
 - [lzr010506](https://github.com/lzr010506)
 - [yuoricwolf](https://github.com/yuoricwolf)
+- [whyif](https://github.com/whyif)
 - [Cinderalla Man](https://github.com/LGQ23333)
 - [slalitt](https://github.com/slalitt)
 - [beyond009](https://github.com/beyond009)
