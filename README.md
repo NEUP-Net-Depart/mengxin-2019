@@ -35,3 +35,5 @@
 - [ltylover](https://github.com/ltylover)
 - [yqw1212](https://github.com/yqw1212)
 - [light-chimes](https://github.com/light-chimes)
+- [lzr010506](https://github.com/lzr010506)
+
