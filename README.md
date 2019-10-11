@@ -1,3 +1,5 @@
+昵称：whyif？   姓名：李鸣贤
+备注：是这么整吗？其实我没太看明白题目hh。如果不对麻烦详细点将呗，我会再改的！
 # NEUP-Net-Department 2019 Mengxin Git Plan (I)
 ## 任务要求
 首先，你需要在 GitHub 上 **fork** 本仓库，从而在你的 GitHub 仓库列表中创建一份 fork 副本。
