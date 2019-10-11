@@ -39,3 +39,6 @@
 - [lzr010506](https://github.com/lzr010506)
 - [yuoricwolf](https://github.com/yuoricwolf)
 - [Cinderalla Man](https://github.com/LGQ23333)
+- [slalitt](https://github.com/slalitt)
+- [beyond009](https://github.com/beyond009)
+- [wsgeo](https://github.com/wsgeo)
