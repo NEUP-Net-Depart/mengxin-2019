@@ -1,5 +1,6 @@
-# NEUP-Net-Department 2019 Mengxin Git Plan (I)
-## 任务要求
+## NEUP-Net-Department 2019 Mengxin Git Plan (I)
+##Mission requirements
+
 首先，你需要在 GitHub 上 **fork** 本仓库，从而在你的 GitHub 仓库列表中创建一份 fork 副本。
 
 之后，请在本地完成修改，并用**命令行**提交到你**fork 之后的仓库**中去。
