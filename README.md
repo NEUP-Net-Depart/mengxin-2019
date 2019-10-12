@@ -44,6 +44,6 @@
 - [beyond009](https://github.com/beyond009)
 - [wsgeo](https://github.com/wsgeo)
 - [Lebron23-ZHY](https://github.com/Lebron23-ZHY)
-- [Eventide00](https://github.com/Eventid)
+- [Eventide00](https://github.com/Eventid00)
 - [Nan1la](https://github.com/Nan1la)
 - [a-new-b](https://a-new-b.github.io/)
