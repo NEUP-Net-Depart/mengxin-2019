@@ -25,7 +25,7 @@
 - [SingHeart](https://github.com/xinjiempolde)
 - [Waitti](https://github.com/Waitti-long)
 - [halozhy](https://github.com/halozhy)
-- [Tankie](https://github.com/Tank1e)
+- [Tank[i\1]e](https://github.com/Tank1e)
 - [Length](https://github.com/3047927842)
 - [czfzc](https://github.com/czfzc)
 - [l-z-l](https://github.com/l-z-l)
