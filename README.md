@@ -25,7 +25,7 @@
 - [SingHeart](https://github.com/xinjiempolde)
 - [Waitti](https://github.com/Waitti-long)
 - [halozhy](https://github.com/halozhy)
-- [Tankie](https://github.com/Tank1e)
+- [Tank[i\1]e](https://github.com/Tank1e)
 - [Length](https://github.com/3047927842)
 - [czfzc](https://github.com/czfzc)
 - [l-z-l](https://github.com/l-z-l)
@@ -44,4 +44,8 @@
 - [beyond009](https://github.com/beyond009)
 - [wsgeo](https://github.com/wsgeo)
 - [Lllive](https://github.com/Lllive)
-
+- [Lebron23-ZHY](https://github.com/Lebron23-ZHY)
+- [Eventide00](https://github.com/Eventide00)
+- [Nan1la](https://github.com/Nan1la)
+- [a-new-b](https://a-new-b.github.io/)
+- [Vincent-Weng1](https://github.com/Vincent-Weng1)
