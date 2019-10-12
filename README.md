@@ -43,5 +43,4 @@
 - [slalitt](https://github.com/slalitt)
 - [beyond009](https://github.com/beyond009)
 - [wsgeo](https://github.com/wsgeo)
--[Lebron23-ZHY](https://github.com/Lebron23-ZHY)
-- [Nan1la](https://github.com/Nan1la)
+  [Lebron23-ZHY](https://github.com/Lebron23-ZHY)
