@@ -11,13 +11,12 @@
 
 如果出现冲突，不能`automatically merge`，请仔细思考，查阅资料来解决问题。
 
-
 ## 任务考核
 请把你的网络昵称添加到这个条目中，并使用超链接链接到你的github主页。
 
 条目上方已经有一些来自学长的提交，请按照格式继续写下去。
 
-如果你拥有个人主页并且愿意分享，可以把这个链接指向你的主页
+如果你拥有个人主页并且愿意分享，可以把这个链接指向你的主页。
 
 
 ## 提交列表
@@ -28,3 +27,19 @@
 - [halozhy](https://github.com/halozhy)
 - [Tankie](https://github.com/Tank1e)
 - [Length](https://github.com/3047927842)
+- [czfzc](https://github.com/czfzc)
+- [l-z-l](https://github.com/l-z-l)
+- [maxzed6](https://github.com/maxzed6)
+- [Dwarf](https://github.com/TrisSSS)
+- [jiongjiong](https://github.com/jiongjiongsir)
+- [ltylover](https://github.com/ltylover)
+- [yqw1212](https://github.com/yqw1212)
+- [light-chimes](https://github.com/light-chimes)
+- [wsyadc](https://github.com/wsyadc)
+- [lzr010506](https://github.com/lzr010506)
+- [yuoricwolf](https://github.com/yuoricwolf)
+- [whyif](https://github.com/whyif)
+- [Cinderalla Man](https://github.com/LGQ23333)
+- [slalitt](https://github.com/slalitt)
+- [beyond009](https://github.com/beyond009)
+- [wsgeo](https://github.com/wsgeo)
