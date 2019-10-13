@@ -53,3 +53,5 @@
 - [ZimHook](https://github.com/ZimHook)
 - [Lonelyspark-nech](https://github.com/Lonelyspark-nech)
 - [Kevin-Beta](https://github.com/Kevin-Beta)
+- [BazingaJack](https://github.com/BazingaJack)
+
