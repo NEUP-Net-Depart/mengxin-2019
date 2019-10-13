@@ -43,3 +43,5 @@
 - [slalitt](https://github.com/slalitt)
 - [beyond009](https://github.com/beyond009)
 - [wsgeo](https://github.com/wsgeo)
+- [Kevin-Beta](https://github.com/Kevin-Beta)
+
