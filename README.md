@@ -1,4 +1,4 @@
-# NEUP-Net-Department 2019 Mengxin Git Plan (I)
+#aaaa NEUP-Net-Department 2019 Mengxin Git Plan (I)
 ## 任务要求
 首先，你需要在 GitHub 上 **fork** 本仓库，从而在你的 GitHub 仓库列表中创建一份 fork 副本。
 
@@ -50,3 +50,4 @@
 - [a-new-b](https://a-new-b.github.io/)
 - [Vincent-Weng1](https://github.com/Vincent-Weng1)
 - [ivnm](https://github.com/iv-nm)
+- [psdem](https://github.com/psdem)
