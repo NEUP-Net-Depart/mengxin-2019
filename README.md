@@ -20,6 +20,10 @@
 
 
 ## 提交列表
+> 任务1 提交已截止。不再接受实习生提交。
+>
+> 持续招新成员仍可继续提交。
+
 - [Neboer](https://github.com/Neboer)
 - [DuckSoft](https://www.ducksoft.site/)
 - [SingHeart](https://github.com/xinjiempolde)
