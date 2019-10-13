@@ -52,3 +52,4 @@
 - [ivnm](https://github.com/iv-nm)
 - [ZimHook](https://github.com/ZimHook)
 - [Lonelyspark-nech](https://github.com/Lonelyspark-nech)
+- [BazingaJack](https://github.com/BazingaJack)
